@@ -1,0 +1,26 @@
+
+h1 {
+    font-size: 35px;
+}
+.title_key{
+    font-size: 37px;
+    color: rgb(5, 49, 143);
+}
+.subtitle {
+    font-weight: 350;
+    font-size: 32px;
+}
+.center{
+    text-align: center;
+}
+#about{
+    color: rgb(5, 49, 143);
+    text-align: right;
+}
+.wrong{
+    color: darkred;
+    font-weight: 1000;
+}
+.answer{
+    font-size: 25px;
+}
