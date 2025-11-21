@@ -3,4 +3,10 @@
     border-width: 1px 1px;
     margin: 40px auto;
     padding: 10px 10px;
+
+    width: auto;        /* 占满可用空间，但不会超过 max-width */
+    max-width: 800px;   /* 设置最大宽度，按需修改为 600/900 等 */
+    /* box-sizing: border-box;  */
+    /* 包含 padding/border 到宽度内，避免超出 */
+
 }
